@@ -1,0 +1,10 @@
+# Core dependencies
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+
+# Optional: useful for running the notebook in Jupyter environments
+jupyter
+ipykernel
