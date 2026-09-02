@@ -1,0 +1,1 @@
+Dataset: Fashion-MNIST, automatically downloaded using TensorFlow/Keras. The dataset is not included in this repository because it is downloaded automatically when the notebook is executed.
